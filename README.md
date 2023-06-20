@@ -11,3 +11,4 @@ o Tecnologia ASP.NET CORE MVC
 o Linguagem C#
 o Banco de Dados MySQL
 
+Necessário após o Download, excluir a o conteúdo da pasta Migrations, e rodar esse código : "Add-Migration CriandoTabelaContatos -Context BancoContext" e "Update-Database -Context BancoContext"
